@@ -1,0 +1,182 @@
+{
+  "smart casual": [
+    {
+      "name": "Textured blazer",
+      "category": "outerwear",
+      "color_palette": ["navy", "charcoal"],
+      "description": "Single-breasted blazer paired with chinos or dark denim for elevated daily wear."
+    },
+    {
+      "name": "Oxford shirt",
+      "category": "top",
+      "color_palette": ["white", "sky blue"],
+      "description": "Breathable cotton shirt that can be dressed up or down."
+    },
+    {
+      "name": "Minimalist sneakers",
+      "category": "footwear",
+      "color_palette": ["white", "cream"],
+      "description": "Low-profile leather sneakers providing comfort without sacrificing style."
+    }
+  ],
+  "summer smart casual": [
+    {
+      "name": "Linen camp shirt",
+      "category": "top",
+      "color_palette": ["sage", "sand"],
+      "description": "Relaxed short-sleeve shirt that keeps airflow high in humid weather."
+    },
+    {
+      "name": "Lightweight chinos",
+      "category": "bottom",
+      "color_palette": ["stone", "khaki"],
+      "description": "Stretch cotton trousers that remain polished while staying cool."
+    },
+    {
+      "name": "Woven loafers",
+      "category": "footwear",
+      "color_palette": ["tan", "cognac"],
+      "description": "Breathable loafers that look smart but slip on easily."
+    }
+  ],
+  "cold weather smart casual": [
+    {
+      "name": "Wool overcoat",
+      "category": "outerwear",
+      "color_palette": ["camel", "charcoal"],
+      "description": "Tailored overcoat that fits layers underneath while staying refined."
+    },
+    {
+      "name": "Cashmere sweater",
+      "category": "top",
+      "color_palette": ["forest", "burgundy"],
+      "description": "Soft insulating knit for comfortable warmth indoors and outdoors."
+    },
+    {
+      "name": "Leather boots",
+      "category": "footwear",
+      "color_palette": ["espresso", "black"],
+      "description": "Weather-ready boots with grip for wet or snowy streets."
+    }
+  ],
+  "business smart": [
+    {
+      "name": "Structured blazer",
+      "category": "outerwear",
+      "color_palette": ["midnight", "graphite"],
+      "description": "Two-button blazer with subtle texture suitable for boardrooms."
+    },
+    {
+      "name": "Tailored trousers",
+      "category": "bottom",
+      "color_palette": ["charcoal", "navy"],
+      "description": "Wool blend trousers with crease-resistant finish."
+    },
+    {
+      "name": "Monk strap shoes",
+      "category": "footwear",
+      "color_palette": ["oxblood", "black"],
+      "description": "Statement footwear that remains professional."
+    }
+  ],
+  "cold weather business smart": [
+    {
+      "name": "Quilted topcoat",
+      "category": "outerwear",
+      "color_palette": ["black", "ink"],
+      "description": "Insulated yet sharp topcoat for commuting in freezing temperatures."
+    },
+    {
+      "name": "Merino turtleneck",
+      "category": "top",
+      "color_palette": ["charcoal", "navy"],
+      "description": "Fine-gauge knit that replaces the shirt for extra warmth."
+    },
+    {
+      "name": "Weatherproof brogues",
+      "category": "footwear",
+      "color_palette": ["walnut", "black"],
+      "description": "Rubber-soled brogues that handle slush while staying office-appropriate."
+    }
+  ],
+  "formal evening": [
+    {
+      "name": "Velvet tuxedo jacket",
+      "category": "outerwear",
+      "color_palette": ["black", "midnight"],
+      "description": "Peak-lapel tuxedo jacket with subtle sheen for formal occasions."
+    },
+    {
+      "name": "Pleated dress shirt",
+      "category": "top",
+      "color_palette": ["ivory", "white"],
+      "description": "Covered placket shirt that matches black tie dress codes."
+    },
+    {
+      "name": "Patent slippers",
+      "category": "footwear",
+      "color_palette": ["black"],
+      "description": "Polished footwear completing the formal ensemble."
+    }
+  ],
+  "cold weather formal evening": [
+    {
+      "name": "Cashmere-lined topcoat",
+      "category": "outerwear",
+      "color_palette": ["black", "deep navy"],
+      "description": "Elegant overcoat that layers seamlessly over evening wear."
+    },
+    {
+      "name": "Silk scarf",
+      "category": "accessory",
+      "color_palette": ["charcoal", "silver"],
+      "description": "Adds warmth without detracting from a tuxedo."
+    },
+    {
+      "name": "Gloss oxford shoes",
+      "category": "footwear",
+      "color_palette": ["jet black"],
+      "description": "Traditional oxfords with high shine for formal events."
+    }
+  ],
+  "active casual": [
+    {
+      "name": "Performance windbreaker",
+      "category": "outerwear",
+      "color_palette": ["cobalt", "citrus"],
+      "description": "Lightweight shell that blocks wind and packs easily."
+    },
+    {
+      "name": "Tech joggers",
+      "category": "bottom",
+      "color_palette": ["slate", "charcoal"],
+      "description": "Moisture-wicking joggers for movement-heavy days."
+    },
+    {
+      "name": "Cushioned trainers",
+      "category": "footwear",
+      "color_palette": ["white", "electric blue"],
+      "description": "Supportive sneakers designed for long hours on your feet."
+    }
+  ],
+  "cold weather active casual": [
+    {
+      "name": "Thermal parka",
+      "category": "outerwear",
+      "color_palette": ["deep green", "black"],
+      "description": "Weatherproof parka with synthetic fill for sub-zero outings."
+    },
+    {
+      "name": "Fleece mid-layer",
+      "category": "top",
+      "color_palette": ["charcoal", "maroon"],
+      "description": "Lofted fleece that traps heat without bulk."
+    },
+    {
+      "name": "Trail boots",
+      "category": "footwear",
+      "color_palette": ["earth", "black"],
+      "description": "Rugged boots with lug soles to handle slick terrain."
+    }
+  ]
+}
